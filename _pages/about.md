@@ -5,4 +5,4 @@ header:
     image: "/images/min/grassland-min.jpg"
 ---
 
-I'm a senior CS+IMA student @ NYU Shanghai with a concentration in Perception, Machine Learning and Autonomous Vehicles. 
+I'm a senior student double majored in Computer Science and Interactive Media Arts @ NYU Shanghai with a concentration in Perception, Machine Learning and Autonomous Vehicles. 
