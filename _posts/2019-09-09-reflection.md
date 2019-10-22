@@ -40,3 +40,14 @@ Python code block:
 Here's some inline code `x+y`.
 
 Here's an image
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/beam.jpg" alt="beam of traffic">
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/beam.jpg)
+
+Here's some maths
+
+$$x+2y=z$$
+
+Also in line $$a+b=c$$
+
