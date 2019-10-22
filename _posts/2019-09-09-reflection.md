@@ -5,6 +5,7 @@ tags: [capstone, reflection, journal]
 header:
     images: "/images/reflection/test.jpg"
 excerpt: "Capstone, 20min walk alone, Reflection"
+mathjax: "true"
 ---
 # H1 Heading
 ## H2 Heading
@@ -40,14 +41,14 @@ Python code block:
 Here's some inline code `x+y`.
 
 Here's an image
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/beam.jpg" alt="beam of traffic">
 
+Here's another image using Kramdown
 ![alt]({{ site.url }}{{ site.baseurl }}/images/beam.jpg)
 
 Here's some maths
 
 $$x+2y=z$$
 
-Also in line $$a+b=c$$
+Also in line $$a+b=c$$ math
 
