@@ -1,7 +1,7 @@
 ---
 title: "Week1 - Reflection"
 date: 2019-09-09
-tags: [IMA Capstone, capstone project, reflection, journal]
+tags: [Weekly Journal]
 header:
     images: "/images/posts/reflection/mapping-manhattan.jpg"
 excerpt: "IMA Capstone, 20min walk alone, Reflection"
