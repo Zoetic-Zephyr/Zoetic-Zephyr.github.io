@@ -3,52 +3,22 @@ title: "Week1 - Reflection"
 date: 2019-09-09
 tags: [capstone, reflection, journal]
 header:
-    images: "/images/reflection/test.jpg"
+    images: "/images/posts/reflection/mapping-manhattan.jpg"
 excerpt: "Capstone, 20min walk alone, Reflection"
 mathjax: "true"
 ---
-# H1 Heading
-## H2 Heading
-### H3 Heading
+##Me
 
-Here's some basic text.
+I am a CS & IMA double major. I have always been a car enthusiast. I like coding. I like building stuff. I want to focus my capstone on autonomous vehicles. 
 
-And here's some *italics*
+##Story
 
-Here's some **bold** text.
+We are moving to a new campus. We will not be able to come back again. I like the old campus. I spend my entire college life here. The new campus means not so much to me. I don’t want the old campus to be forgotten. I want to keep it. I want it to stay in people’s minds. 
 
-What about a [link](https://github.com)
+##My Skills / Source for Help
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
+I know about Computer Vision. I am taking a Self-Driving Car Engineer Nanodegree from Udacity. I am studying Machine Learning / Artificial Intelligence. I will learn Sensor Fusion. I can learn how to program a robot with Prof. Rudi. I have many experiences with Kinect and point clouds. I have taken a VR/AR course with Prof. Naimark. That can be a way to present my project. I can also ask Prof. Christian for technical details. I have Prof. Chen from CS who is willing to help me with the capstone. 
 
-Here's a numbered list:
-1. First
-2. Second
-3. Third
+##My Plan
 
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-        z = np.sum(x, y)
-        return z
-```
-
-Here's some inline code `x+y`.
-
-Here's an image
-<img src="{{ site.url }}{{ site.baseurl }}/images/beam.jpg" alt="beam of traffic">
-
-Here's another image using Kramdown
-![alt]({{ site.url }}{{ site.baseurl }}/images/beam.jpg)
-
-Here's some maths
-
-$$x+2y=z$$
-
-Also in line $$a+b=c$$ math
-
+I want to build a map for our campus. I believe this campus is significant for every student in&before our class (2020). The school may also like it. I want to use a mobile robot, can be a car or a drone. I can use a panoramic camera and stitch the images/videos. I can also use a point cloud from Kinect (available on campus), or some laser scanners (may need to buy). Both of these two ways produce a model. There are ready-to-go commercial solutions. I need funding. The difficulty level should be manageable to me. 
